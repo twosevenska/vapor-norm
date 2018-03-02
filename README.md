@@ -15,4 +15,4 @@ source ~/.zshrc
 
 ## Screenshot
 
-![vapor_norm_screenshot.png](vapor_norm_screenshot.png)
+![vapor_norm_screenshot.png](vapor-norm-screenshot.png)
